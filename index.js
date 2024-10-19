@@ -18,4 +18,4 @@ const user = {
 //     console.log(this.username);
 // }
 
-console.log(user.price);
+// console.log(user.price);

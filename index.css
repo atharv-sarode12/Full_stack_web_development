@@ -1,0 +1,29 @@
+body{
+    
+}
+.category{
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    position: absolute;
+    left: 600px;
+    border-radius: 35px;
+    background-color: yellow;
+    
+}
+
+p{
+    margin-left: 50px;
+}
+
+button{
+    margin-left: 50px;
+    padding: 25px;
+    border-radius: 35px;
+}
+
+#Next{
+    position: absolute;
+    left: 150px;
+    padding: 10px;
+}
